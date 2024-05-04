@@ -1,6 +1,6 @@
 # read02.md
 
-= Respuesta
+>Respuesta
 
 ## La computadora del programador
 
